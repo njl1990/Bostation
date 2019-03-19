@@ -1,0 +1,2 @@
+python dailyclean.py
+pause
