@@ -1,0 +1,1 @@
+move D:\tmp\desktop\*.*  C:\Users\mxl80\Desktop\

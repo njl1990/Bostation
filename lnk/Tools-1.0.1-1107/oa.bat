@@ -1,0 +1,1 @@
+"C:\Program Files\internet explorer\iexplore.exe" "http://106.74.152.38:8080/seeyon/index.jsp"
